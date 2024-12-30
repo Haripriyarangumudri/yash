@@ -1,0 +1,6 @@
+@yash_HostAddress = http://localhost:5271
+
+GET {{yash_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
